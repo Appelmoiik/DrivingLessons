@@ -21,7 +21,7 @@
     background-color: grey;
     padding: 10px;
     text-align: center;
-}
+    }
 
 .bavbar a {
     color: white;
@@ -706,7 +706,7 @@ height: 400px;
         .bavbar a {
             color: white;
             text-decoration: none;
-            padding: 10px 15px;
+            padding: 8px 4px;
         }
     
 
